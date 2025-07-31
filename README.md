@@ -17,3 +17,16 @@ Features:
 Run it with:
 ```bash
 python todo_list_app.py
+# 🗒 Python Notes App
+
+Simple CLI note-taking tool using file handling in Python.  
+Notes are stored in `notes.txt` and can be viewed or deleted later.
+
+## Features:
+- Add text notes
+- View saved notes
+- Delete all notes
+
+## How to Run
+```bash
+python notes_app.py
