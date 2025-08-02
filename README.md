@@ -30,3 +30,16 @@ Notes are stored in `notes.txt` and can be viewed or deleted later.
 ## How to Run
 ```bash
 python notes_app.py
+# 🔐 Password Generator in Python
+
+A secure password generator using Python.  
+Mixes letters, digits, and symbols using the `random` and `string` modules.
+
+## Features:
+- User-defined password length
+- Randomized characters
+- Simple CLI interface
+
+## Run it with:
+```bash
+python password_generator.py
