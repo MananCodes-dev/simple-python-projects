@@ -30,16 +30,36 @@ Notes are stored in `notes.txt` and can be viewed or deleted later.
 ## How to Run
 ```bash
 python notes_app.py
-# 🔐 Password Generator in Python
 
-A secure password generator using Python.  
-Mixes letters, digits, and symbols using the `random` and `string` modules.
+# 🔐 Python Password Generator
 
-## Features:
-- User-defined password length
-- Randomized characters
-- Simple CLI interface
+A simple and secure command-line Password Generator built using Python.  
+Generates strong, randomized passwords with a mix of letters, numbers, and symbols.
 
-## Run it with:
+---
+
+## 🚀 Features
+
+- ✅ User-defined password length
+- ✅ Randomized characters (letters, digits, symbols)
+- ✅ Easy-to-use CLI interface
+- ✅ Built with `random` and `string` modules
+
+---
+
+## 🧠 Concepts Used
+
+- String manipulation (`string.ascii_letters`, `string.digits`, `string.punctuation`)
+- Random selection (`random.sample()`)
+- Input handling and loops
+
+---
+
+## 🖥️ How to Run
+
+1. Make sure you have Python installed.
+2. Run the script from your terminal:
+
 ```bash
 python password_generator.py
+y
